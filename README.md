@@ -2,7 +2,7 @@ SQL Analysis with WideWorldImporters
 
 Welcome to the SQL Analysis with WideWorldImporters repository!
 
-This repository is designed to guide anyone starting with SQL, from beginner to advanced levels, using the WideWorldImporters sample database. The goal is practical learning through writing queries to answer real-world business questions. No visualizations are included — the focus is purely on querying, aggregating, and analyzing data.
+This repository is designed to guide anyone starting with SQL, from beginner to advanced levels, using the WideWorldImporters sample database. The goal is practical learning through writing queries to answer real-world business questions. No visualizations are included  the focus is purely on querying, aggregating, and analyzing data.
 
 ![image](https://plus.unsplash.com/premium_photo-1661963312443-e6f80b64ace6?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bG9naXN0aWNzfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000)
 
