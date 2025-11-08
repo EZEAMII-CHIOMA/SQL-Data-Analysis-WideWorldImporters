@@ -32,7 +32,7 @@ Learning Path
 
 The queries are organized by difficulty:
 
-1. Beginner — Data Exploration & Descriptive Analysis
+1. Beginner: Data Exploration & Descriptive Analysis
 
 Focus: Summarize, filter, and retrieve data to understand business metrics.
 Examples:
@@ -46,7 +46,7 @@ Examples:
 > Techniques: SUM(), COUNT(), AVG(), GROUP BY, WHERE, simple joins
 
 
-2. Intermediate — Diagnostic & Comparative Analysis
+2. Intermediate: Diagnostic & Comparative Analysis
 
 Focus: Identify patterns, relationships, and reasons behind performance.
 Examples:
@@ -86,9 +86,9 @@ How to Use
 
 3. Explore queries folder:
 
-beginner — Basic queries
-intermediate — Diagnostic & comparative queries
-advanced — Strategic & predictive queries
+beginner: Basic queries
+intermediate: Diagnostic & comparative queries
+advanced: Strategic & predictive queries
 
 4. Execute queries, understand the results, and experiment by modifying conditions or joining additional tables.
 
@@ -110,5 +110,5 @@ Contributions are welcome! You can:
  Improve existing queries
  Suggest additional business questions
 
-Start your SQL learning journey today — from basic exploration to advanced strategic analysis, all using real-world data!
+Start your SQL learning journey today from basic exploration to advanced strategic analysis, all using real-world data!
 
