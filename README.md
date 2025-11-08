@@ -43,7 +43,7 @@ Examples:
  Customers with the highest number of orders
  Stock movement trends
 
-> Techniques: SUM(), COUNT(), AVG(), GROUP BY, WHERE, simple joins
+ Techniques: SUM(), COUNT(), AVG(), GROUP BY, WHERE, simple joins
 
 
 2. Intermediate: Diagnostic & Comparative Analysis
@@ -57,10 +57,10 @@ Examples:
  Slow-moving or underperforming products
  Average time between purchases
 
-> Techniques: Multiple joins, CTEs, CASE WHEN, date calculations, correlated subqueries
+ Techniques: Multiple joins, CTEs, CASE WHEN, date calculations, correlated subqueries
 
 
-3. Advanced — Predictive, Profitability & Strategic Analysis
+3. Advanced: Predictive, Profitability & Strategic Analysis
 
 Focus: Deliver insights, KPIs and strategic recommendations.
 Examples:
@@ -71,7 +71,7 @@ Examples:
  Profit margin trends vs sales volume
  Contribution margin per product
 
-> Techniques: Window functions, advanced aggregations, grouping sets, ranking functions, performance analysis
+ Techniques: Window functions, advanced aggregations, grouping sets, ranking functions, performance analysis
 
 How to Use
 
